@@ -67,6 +67,12 @@ PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開�
 |[p-el-dem-2205_filltank_pintoo](scada/p-el-dem-2205_filltank_pintoo/)|液化槽控制(PinToo)|
 |[p-el-dem-2208_factory_robot_arm](scada/p-el-dem-2208_factory_robot_arm/)|虛擬機器械臂控制|
 
+## 媒體
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
+|[p-el-dem-2212_openmap](media/p-el-dem-2212_openmap/)|地圖定位展示|
+
 ## 範例匯入方式
 
 請注意，範例的匯入流程會將原有的模板資料庫覆蓋，所在在匯入其他模板資料庫之前請先備份已有的 `PinToo.pdb` 檔案。
