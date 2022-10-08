@@ -110,3 +110,46 @@ PinToo引入智慧前端技術，造就了ERP應用系統的主流，隨著手�
 * **PinToo 範例列表**：https://isoface.net/isoface/production/software/pintoo/pintoo-sample
 * **PinToo 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/pintoo
 * **PinToo 無需安裝，線上試用**：https://isoface.net/isoface/support/trial/pintoo
+
+## PinToo 無需安裝，線上試用
+
+PinToo開發測試為協助開發者，測試IDE界面設計、瀏覽系統管理功能，修改結果不能儲存。
+
+[點選鏈接跳轉至測試系統。](https://www.diylogi.com)
+
+使用者名稱：pintoo
+
+密碼：demo
+
+登錄系統后打開PinToo登錄界面，登錄界面預設的使用者名稱為admin，預設密碼為空。點選登錄按鈕可直接登錄主頁。所有專案均以圖示的形式呈現，點選對應的圖示即可進入到相應的說明界面中。
+
+為保持最佳的體驗，在程式執行后，將程式顯示頁面最大化，之後在主頁上按住滑鼠下移下拉重新整理主頁面。由於平臺的限制，PC端無法實現PinToo的全部功能，建議在Android終端上安裝PinToo程式進行詳細體驗。
+
+檢視模組開發界面
+
+* 使用開發測試登錄
+* 點選左上角功能表欄，選擇`界面設定`。
+* 選擇要檢視的模板，點選`設計`按鈕。
+* 開啟對應的模組設計界面，在界面中可檢視模組的窗體配置資訊。
+
+詳情請檢視[PinToo快速上手](https://isoface.net/isoface/doc/pintoo/quick-start/)。
+
+* PinToo範例選擇說明
+
+登錄至PinToo主頁界面中，顯示的內容示例如下，如需要進入對應模組，點選對應模組的圖示。
+
+![](images/pintootutoral01.png)
+
+PinToo中實現的模板主要有以下三種類型：
+
+* **物聯網控制**：該分類下的示例需配合相關硬體進行使用，不能獨立啟動。
+* **媒體功能**：該分類下的示例不需要結合硬體使用，其中部分示例需要連線Internet后才可使用。
+* **數據通訊**：該分類下的示例需要結合資料庫連線，需為其配置帳套連線，無法單獨使用。
+
+在進入示例前會有彈窗出現，對專案的內容進行說明，點選進入示例進入到對應的示例中。
+
+![](images/pintootutoral02.png)
+
+在示例體驗結束后，點選左上角的關閉按鈕關閉目前頁的編輯，返回至上一個頁面。
+
+![](images/pintootutoral03.png)
