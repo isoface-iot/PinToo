@@ -1,9 +1,13 @@
 # PinToo 是 Android 移動設備開發平臺
 PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開發企業管理系統，只要有網路，無論何時、何地，快速開發APP。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 PinToo 提供多層次開發框架，開發企業管理系統，只要有網路，無論何時、何地，快速開發APP。PinToo從系統設計、雛型設計到系統開發，最後到版本管理與佈署即系統文件印出一氣呵成，顛覆軟體設計工作模式並提供全新服務。PinToo是專為android手機或平板電腦設計的圖像化編程工具。以您為中心，量身打造各種商業運用與物聯網的整合。無論在工廠監控、ERP、電子商務…，就讓PinToo滿足您的想像。
 ![](images/301684029.jpg)
