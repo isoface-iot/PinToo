@@ -2,9 +2,13 @@
 
 PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開發企業管理系統，只要有網路，無論何時、何地，快速開發APP。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 APP 開發工具 PinToo ，採用 openstreetmap 開放街圖，顯示效果不比 Google地圖差，不用申請 API、完全免費，輕鬆掌控 APK 在彈指之間。
 
