@@ -8,7 +8,7 @@ PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 軌道平臺放置 Android 手機服務端，執行視訊串流服務。
 

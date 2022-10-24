@@ -8,7 +8,7 @@ PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 通過PinToo 的ModbusTCP來控制虛擬場景中的機械臂的移動。實現對 Factory IO 場景的控制。
 

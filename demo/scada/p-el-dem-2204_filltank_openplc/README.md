@@ -8,7 +8,7 @@ PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 PinToo 可通過ModbusTCP 讀取OpenPLC中的數據，實現對 Factory IO 場景的控制。
 
