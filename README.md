@@ -112,7 +112,7 @@ PinToo引入智慧前端技術，造就了ERP應用系統的主流，隨著手�
 * **PinToo下載**：[點選此處下載](https://github.com/isoface-iot/PinToo/releases/latest)
 * **PinToo產品說明**：https://isoface.net/isoface/doc/pintoo/main/
 * **PinToo 範例列表**：https://isoface.net/isoface/production/software/pintoo/pintoo-sample
-* **PinToo 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/pintoo
+* **PinToo 快速上手**：https://isoface.net/isoface/study/quick-start/software/pintoo
 * **PinToo 無需安裝，線上試用**：https://isoface.net/isoface/support/trial/pintoo
 
 ## PinToo 無需安裝，線上試用
