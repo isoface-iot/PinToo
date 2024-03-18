@@ -77,6 +77,13 @@ PinToo 移動設備應用程式開發平臺，提供多層次開發框架，開�
 |-------|------------|
 |[p-el-dem-2212_openmap](media/p-el-dem-2212_openmap/)|地圖定位展示|
 
+## 數控中心
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
+|[large-screen](examples/large-screen/)|戰情指揮系統|
+|[personnel-and-vehicle-positioning](examples/personnel-and-vehicle-positioning/)|人車定位系統|
+
 ## 範例匯入方式
 
 請注意，範例的匯入流程會將原有的模板資料庫覆蓋，在匯入其他模板資料庫之前請先備份已有的 `PinToo.pdb` 檔案。有以下兩種備份與打開方式。
